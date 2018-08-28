@@ -1,1 +1,1 @@
-{"amount":"1200.000","cid":"436","uid":"844","time":1535366720,"order_id":"214","to_bank_flag":"CEB","to_cardnumber":"123456789012","to_username":"\u7528\u6237\u540d","location":"guangdong","city":"6-1"}------{"success":false,"msg":"balance not enough"}
+{"amount":"100.000","cid":"436","uid":"827","time":1535443095,"order_id":"217","to_bank_flag":"CMB","to_cardnumber":"6226090216709549","to_username":"\u4ed8\u9f99","location":"guangxi","city":"7-6"}------{"success":true}

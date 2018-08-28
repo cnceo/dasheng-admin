@@ -9,7 +9,7 @@ $conf['db']['password']='www.123.com';
 $conf['db']['charset']='utf8';
 $conf['db']['prename']='z4r5jk12_';
 
-$conf['safepass']='123123';     //后台登陆安全码
+$conf['safepass']='946703';     //后台登陆安全码
 
 $conf['cache']['expire']=0;
 $conf['cache']['dir']='_Y6f9=jyyB9.c,ER#-u/';     //前台缓存目录
