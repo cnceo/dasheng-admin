@@ -1,1 +1,1 @@
-{"amount":"100.000","cid":"436","uid":"827","time":1535443095,"order_id":"217","to_bank_flag":"CMB","to_cardnumber":"6226090216709549","to_username":"\u4ed8\u9f99","location":"guangxi","city":"7-6"}------{"success":true}
+{"amount":"18500.000","cid":"436","uid":"869","time":1536048911,"order_id":"253","to_bank_flag":"CCB","to_cardnumber":"6217002870027698214","to_username":"\u90d1\u52a0\u52c7","location":"hubei","city":"13-10"}------{"success":true}
